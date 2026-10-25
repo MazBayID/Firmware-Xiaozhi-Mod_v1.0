@@ -1,4 +1,4 @@
-<img src="Xiaozhi_mod.gif" width="500" alt="Preview">
+<img src="Xiaozhi_Mod.gif" width="500" alt="Preview">
 
 # Xiaozhi AI Mod for ESP32-C3 Super Mini 🚀
 
