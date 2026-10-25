@@ -1,3 +1,5 @@
+<img src="Xiaozhi_mod.gif" width="500" alt="Preview">
+
 # Xiaozhi AI Mod for ESP32-C3 Super Mini 🚀
 
 Modifikasi dan konfigurasi khusus untuk menjalankan **Xiaozhi AI** pada mikrokontroler **ESP32-C3 Super Mini**, lengkap dengan dukungan audio I2S (INMP441 & MAX98357A) serta layar OLED 0.96".
